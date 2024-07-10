@@ -1,2 +1,2 @@
-# Snake_teste
-Snake_teste
+# Snake_JS
+Snake-JS
